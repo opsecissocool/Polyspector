@@ -1,4 +1,4 @@
-[![Polyspector Discord](https://img.shields.io/badge/Polyspector-Discord-purple)](https://discord.gg/6R5GuYk3Vw)
+[![Polyspector Discord](https://img.shields.io/badge/Polyspector-Discord-purple)](https://discord.gg/6R5GuYk3Vw) [![Elytra Discord](https://img.shields.io/badge/Elytra-Discord-purple)](https://discord.gg/Z974H5cQ9z)
 # Polyspector - Based off Dex Explorer by Moon ❤️
 *A explorer for viewing Polytoria's services, ScriptInstances, etc.*
 > Note:

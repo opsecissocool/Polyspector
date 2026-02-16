@@ -6,7 +6,7 @@
 This project was based off the Dex Explorer by Moon, which if didn't exist our project wouldn't have been possible.
 Polyspector is to stay free forever with lots of features offered to you at no price.
 
-Polyspector has a **Discord server**, join here: [Polyspector Discord](https://discord.gg/gMjKxupn)
+Polyspector has a **Discord server**, join here: [Polyspector Discord](https://discord.gg/6R5GuYk3Vw)
 
 # What language is this project made in?
 > We are made in Moonsharp, which is a C# interpreter for LUA that Polytoria currently supports.
